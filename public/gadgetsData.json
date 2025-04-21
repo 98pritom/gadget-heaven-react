@@ -1,0 +1,271 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 14 Pro",
+        "price": 999,
+        "category": "Smartphone",
+        "brand": "Apple",
+        "details": "6.1-inch display, A16 chip, Triple-camera system",
+        "rating": 4.8,
+        "availability": "In Stock",
+        "specifications": {
+            "display": "6.1-inch OLED",
+            "chip": "A16 Bionic",
+            "camera": "48MP + 12MP + 12MP",
+            "battery": "3200 mAh",
+            "storage": "128GB"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Samsung Galaxy S23",
+        "price": 899,
+        "category": "Smartphone",
+        "brand": "Samsung",
+        "details": "6.1-inch AMOLED display, Snapdragon 8 Gen 2, 50MP camera",
+        "rating": 4.6,
+        "availability": "In Stock",
+        "specifications": {
+            "display": "6.1-inch AMOLED",
+            "chip": "Snapdragon 8 Gen 2",
+            "camera": "50MP + 12MP + 10MP",
+            "battery": "3900 mAh",
+            "storage": "256GB"
+        }
+    },
+    {
+        "id": 3,
+        "name": "MacBook Air M2",
+        "price": 1199,
+        "category": "Laptop",
+        "brand": "Apple",
+        "details": "13.6-inch Retina display, M2 chip, 18 hours battery life",
+        "rating": 4.9,
+        "availability": "Limited Stock",
+        "specifications": {
+            "display": "13.6-inch Retina",
+            "chip": "Apple M2",
+            "ram": "8GB",
+            "storage": "256GB SSD",
+            "battery": "Up to 18 hours"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Dell XPS 13",
+        "price": 1099,
+        "category": "Laptop",
+        "brand": "Dell",
+        "details": "13.4-inch InfinityEdge display, Intel i7, 512GB SSD",
+        "rating": 4.5,
+        "availability": "In Stock",
+        "specifications": {
+            "display": "13.4-inch FHD+",
+            "chip": "Intel Core i7 13th Gen",
+            "ram": "16GB",
+            "storage": "512GB SSD",
+            "battery": "Up to 12 hours"
+        }
+    },
+    {
+        "id": 5,
+        "name": "Sony WH-1000XM5",
+        "price": 399,
+        "category": "Headphones",
+        "brand": "Sony",
+        "details": "Noise-canceling over-ear headphones with 30-hour battery",
+        "rating": 4.7,
+        "availability": "In Stock",
+        "specifications": {
+            "type": "Over-ear",
+            "battery": "30 hours",
+            "connectivity": "Bluetooth 5.2",
+            "noise_cancellation": true
+        }
+    },
+    {
+        "id": 6,
+        "name": "Apple Watch Series 9",
+        "price": 429,
+        "category": "Smartwatch",
+        "brand": "Apple",
+        "details": "GPS + Cellular, Retina display, Health & fitness tracking",
+        "rating": 4.6,
+        "availability": "Out of Stock",
+        "specifications": {
+            "display": "Always-On Retina",
+            "connectivity": "GPS + Cellular",
+            "battery": "18 hours",
+            "features": [
+                "Heart Rate",
+                "Sleep",
+                "Fitness",
+                "ECG"
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "name": "iPad Pro 12.9",
+        "price": 1099,
+        "category": "Tablet",
+        "brand": "Apple",
+        "details": "M2 chip, Liquid Retina XDR display, 5G capable",
+        "rating": 4.8,
+        "availability": "In Stock",
+        "specifications": {
+            "display": "12.9-inch Liquid Retina XDR",
+            "chip": "Apple M2",
+            "storage": "128GB",
+            "camera": "12MP + 10MP",
+            "battery": "Up to 10 hours"
+        }
+    },
+    {
+        "id": 8,
+        "name": "Google Pixel 8 Pro",
+        "price": 999,
+        "category": "Smartphone",
+        "brand": "Google",
+        "details": "Tensor G3 chip, 6.7-inch display, triple camera",
+        "rating": 4.5,
+        "availability": "In Stock",
+        "specifications": {
+            "display": "6.7-inch LTPO OLED",
+            "chip": "Tensor G3",
+            "camera": "50MP + 48MP + 48MP",
+            "battery": "5050 mAh",
+            "storage": "128GB"
+        }
+    },
+    {
+        "id": 9,
+        "name": "Lenovo Tab P11",
+        "price": 249,
+        "category": "Tablet",
+        "brand": "Lenovo",
+        "details": "11.5-inch 2K display, Snapdragon 750G, 6GB RAM",
+        "rating": 4.2,
+        "availability": "In Stock",
+        "specifications": {
+            "display": "11.5-inch 2K",
+            "chip": "Snapdragon 750G",
+            "ram": "6GB",
+            "storage": "128GB",
+            "battery": "7700 mAh"
+        }
+    },
+    {
+        "id": 10,
+        "name": "GoPro Hero11",
+        "price": 499,
+        "category": "Action Camera",
+        "brand": "GoPro",
+        "details": "5.3K video, HyperSmooth 5.0, waterproof",
+        "rating": 4.6,
+        "availability": "In Stock",
+        "specifications": {
+            "resolution": "5.3K60 / 4K120",
+            "waterproof": "10m",
+            "battery": "1720 mAh",
+            "features": [
+                "Stabilization",
+                "Slow Motion",
+                "TimeWarp"
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "name": "Amazon Echo Dot (5th Gen)",
+        "price": 49,
+        "category": "Smart Speaker",
+        "brand": "Amazon",
+        "details": "Voice assistant, smart home control, compact size",
+        "rating": 4.4,
+        "availability": "In Stock",
+        "specifications": {
+            "assistant": "Alexa",
+            "connectivity": "Wi-Fi, Bluetooth",
+            "features": [
+                "Voice Commands",
+                "Smart Home",
+                "Music Streaming"
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "name": "Logitech MX Master 3S",
+        "price": 99,
+        "category": "Mouse",
+        "brand": "Logitech",
+        "details": "Ergonomic design, silent click, advanced tracking",
+        "rating": 4.7,
+        "availability": "In Stock",
+        "specifications": {
+            "sensor": "Darkfield high precision",
+            "dpi": "8000",
+            "connectivity": "Bluetooth / USB Receiver",
+            "battery": "70 days"
+        }
+    },
+    {
+        "id": 13,
+        "name": "Anker PowerCore 10000",
+        "price": 35,
+        "category": "Power Bank",
+        "brand": "Anker",
+        "details": "Compact 10000mAh portable charger, fast charging",
+        "rating": 4.8,
+        "availability": "In Stock",
+        "specifications": {
+            "capacity": "10000 mAh",
+            "ports": "USB-A, Micro-USB",
+            "features": [
+                "Fast Charging",
+                "Compact"
+            ]
+        }
+    },
+    {
+        "id": 14,
+        "name": "Razer BlackWidow V4",
+        "price": 179,
+        "category": "Gaming Keyboard",
+        "brand": "Razer",
+        "details": "RGB mechanical keys, macro support, wrist rest",
+        "rating": 4.6,
+        "availability": "Limited Stock",
+        "specifications": {
+            "switches": "Razer Green",
+            "backlight": "RGB",
+            "connectivity": "Wired",
+            "features": [
+                "Macro Keys",
+                "Media Controls",
+                "Ergonomic Design"
+            ]
+        }
+    },
+    {
+        "id": 15,
+        "name": "DJI Mini 3 Pro",
+        "price": 759,
+        "category": "Drone",
+        "brand": "DJI",
+        "details": "4K video, 34-min flight time, obstacle avoidance",
+        "rating": 4.9,
+        "availability": "In Stock",
+        "specifications": {
+            "camera": "4K HDR",
+            "flight_time": "34 minutes",
+            "range": "12 km",
+            "features": [
+                "Obstacle Avoidance",
+                "Smart Return",
+                "Follow Me"
+            ]
+        }
+    }
+]
